@@ -39,7 +39,7 @@ const HeroSection = () => {
           <div className="bg-cafe-cream/10 backdrop-blur-sm rounded-xl p-6 border border-cafe-gold/20">
             <MapPin className="w-8 h-8 text-cafe-gold mx-auto mb-3" />
             <h3 className="font-playfair text-lg font-semibold text-cafe-cream mb-2">Adresse</h3>
-            <p className="font-inter text-cafe-cream/80">Chabeuil 26120</p>
+            <p className="font-inter text-cafe-cream/80">5 pl Gén de Gaulle<br />26120 Chabeuil</p>
           </div>
           
           <div className="bg-cafe-cream/10 backdrop-blur-sm rounded-xl p-6 border border-cafe-gold/20">
@@ -51,7 +51,7 @@ const HeroSection = () => {
           <div className="bg-cafe-cream/10 backdrop-blur-sm rounded-xl p-6 border border-cafe-gold/20">
             <Phone className="w-8 h-8 text-cafe-gold mx-auto mb-3" />
             <h3 className="font-playfair text-lg font-semibold text-cafe-cream mb-2">Contact</h3>
-            <p className="font-inter text-cafe-cream/80">04 XX XX XX XX</p>
+            <p className="font-inter text-cafe-cream/80">04 75 59 02 62</p>
           </div>
         </div>
       </div>

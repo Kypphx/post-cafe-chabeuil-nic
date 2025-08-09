@@ -28,6 +28,7 @@ const ContactSection = () => {
                   <h3 className="font-playfair text-xl font-semibold text-cafe-brown mb-2">Adresse</h3>
                   <p className="font-inter text-muted-foreground">
                     Le Café de la Poste chez Nico<br />
+                    5 pl Gén de Gaulle<br />
                     26120 Chabeuil<br />
                     France
                   </p>
@@ -59,7 +60,7 @@ const ContactSection = () => {
                 <div>
                   <h3 className="font-playfair text-xl font-semibold text-cafe-brown mb-2">Téléphone</h3>
                   <p className="font-inter text-muted-foreground">
-                    04 XX XX XX XX
+                    04 75 59 02 62
                   </p>
                   <p className="font-inter text-sm text-muted-foreground/70 mt-1">
                     N'hésitez pas à nous appeler pour vos réservations
