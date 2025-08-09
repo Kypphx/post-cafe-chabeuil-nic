@@ -45,7 +45,7 @@ const HeroSection = () => {
           <div className="bg-cafe-cream/10 backdrop-blur-sm rounded-xl p-6 border border-cafe-gold/20">
             <Clock className="w-8 h-8 text-cafe-gold mx-auto mb-3" />
             <h3 className="font-playfair text-lg font-semibold text-cafe-cream mb-2">Horaires</h3>
-            <p className="font-inter text-cafe-cream/80">Lun-Ven: 7h-19h<br />Sam: 8h-18h</p>
+            <p className="font-inter text-cafe-cream/80">Tous les jours<br />8h30 - 1h00</p>
           </div>
           
           <div className="bg-cafe-cream/10 backdrop-blur-sm rounded-xl p-6 border border-cafe-gold/20">

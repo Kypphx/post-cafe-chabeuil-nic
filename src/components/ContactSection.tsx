@@ -44,9 +44,7 @@ const ContactSection = () => {
                 <div>
                   <h3 className="font-playfair text-xl font-semibold text-cafe-brown mb-2">Horaires d'ouverture</h3>
                   <div className="font-inter text-muted-foreground space-y-1">
-                    <p>Lundi - Vendredi: 7h00 - 19h00</p>
-                    <p>Samedi: 8h00 - 18h00</p>
-                    <p>Dimanche: Fermé</p>
+                    <p>Tous les jours: 8h30 - 1h00</p>
                   </div>
                 </div>
               </div>
@@ -77,7 +75,7 @@ const ContactSection = () => {
                 <div>
                   <h3 className="font-playfair text-xl font-semibold text-cafe-brown mb-2">Email</h3>
                   <p className="font-inter text-muted-foreground">
-                    contact@cafe-poste-chabeuil.fr
+                    nicolas-reinke@hotmail.fr
                   </p>
                 </div>
               </div>
