@@ -8,35 +8,48 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    --background: 38 25% 97%;
+    --foreground: 25 35% 12%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
+    --card: 35 20% 95%;
+    --card-foreground: 25 35% 12%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
+    --popover: 35 20% 95%;
+    --popover-foreground: 25 35% 12%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    --primary: 28 45% 35%;
+    --primary-foreground: 35 20% 95%;
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 35 15% 88%;
+    --secondary-foreground: 25 35% 12%;
 
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 46.9%;
+    --muted: 35 15% 88%;
+    --muted-foreground: 25 15% 45%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --accent: 42 85% 65%;
+    --accent-foreground: 25 35% 12%;
 
     --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 210 40% 98%;
+    --destructive-foreground: 35 20% 95%;
 
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --border: 35 20% 85%;
+    --input: 35 20% 85%;
+    --ring: 28 45% 35%;
 
-    --radius: 0.5rem;
+    --cafe-warm: 25 35% 12%;
+    --cafe-cream: 38 25% 97%;
+    --cafe-brown: 28 45% 35%;
+    --cafe-gold: 42 85% 65%;
+    --cafe-light-brown: 35 25% 75%;
+
+    --gradient-warm: linear-gradient(135deg, hsl(28, 45%, 35%), hsl(25, 35%, 20%));
+    --gradient-cream: linear-gradient(180deg, hsl(38, 25%, 97%), hsl(35, 20%, 95%));
+    --gradient-gold: linear-gradient(45deg, hsl(42, 85%, 65%), hsl(45, 80%, 70%));
+
+    --shadow-warm: 0 10px 30px -10px hsl(28, 45%, 35% / 0.3);
+    --shadow-soft: 0 4px 20px -4px hsl(25, 35%, 12% / 0.1);
+
+    --radius: 0.75rem;
 
     --sidebar-background: 0 0% 98%;
 
